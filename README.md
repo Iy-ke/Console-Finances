@@ -4,16 +4,14 @@ write JavaScript code that analyzes the records to calculate each of the followi
 
 ## Acceptance criteria
 
-The total number of months included in the dataset.
+The user story is achieved when; 
 
-The net total amount of Profit/Losses over the entire period.
+-The total number of months included in the dataset is logged in the console 
 
-The average of the changes in Profit/Losses over the entire period.
+-The net total amount of Profit/Losses over the entire period is calculated and logged in the console
 
-You will need to track what the total change in profits is from month to month and then find the average.
+-The average of the changes in Profit/Losses over the entire period is estimated and logged in the console 
 
-(Total/Number of months)
+-The greatest increase in profits (date and amount) over the entire period is logged in the console
 
-The greatest increase in profits (date and amount) over the entire period.
-
-The greatest decrease in losses (date and amount) over the entire period.
+-The greatest decrease in losses (date and amount) over the entire period is logged in the console
